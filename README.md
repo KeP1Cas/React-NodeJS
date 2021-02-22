@@ -1,7 +1,7 @@
 # React-NodeJS
-Express.js
-express-validator
-MongoDB
-bcryptjs
-jsonwebtoken
-mongoose
+- Express.js
+- express-validator
+- MongoDB
+- bcryptjs
+- jsonwebtoken
+- mongoose
