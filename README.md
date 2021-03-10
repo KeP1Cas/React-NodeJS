@@ -1,7 +1,10 @@
 # React-NodeJS
+- React
 - Express.js
-- express-validator
 - MongoDB
+- React Router
+- express-validator
 - bcryptjs
 - jsonwebtoken
 - mongoose
+- short-id
